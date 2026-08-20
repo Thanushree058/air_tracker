@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Air Tracker: Flight Analytics
 
 End-to-end pipeline: AeroDataBox API → MySQL → SQL analysis → Streamlit dashboard.
